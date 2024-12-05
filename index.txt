@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Kaitlyn Klapatauskas
+Kaitlyn Klapatauskas
+Michigan Tech Student
 
 Show Contacts
 
 Email
-richard@example.com
+krklapat@mtu.edu
 
 Phone
-+1 (213) 352-2795
++1 (715)-203-2099
 
 Birthday
-June 23, 1982
+September 9th, 2000
 
 Location
-Sacramento, California, USA
+Houghton, Michigan, USA
 
 # navbar
 
